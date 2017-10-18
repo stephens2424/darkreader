@@ -283,6 +283,10 @@
             ]
         },
         {
+            "url": "vuejs.org",
+            "rules": "body .content h3 { z-index: 1 }"
+        },
+        {
             "url": "web.whatsapp.com",
             "invert": ".qrcode .icon-logo",
             "rules": ".qrcode { border: 8px solid black; }"
